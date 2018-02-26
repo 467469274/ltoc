@@ -19,8 +19,13 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="532">
               <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+=======
+            <state relative-caret-position="606">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+>>>>>>> 893377969fd86ea000f36a85f9685f48fdc85d6c
               <folding />
             </state>
           </provider>
@@ -158,12 +163,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519637046840</updated>
+<<<<<<< HEAD
       <workItem from="1519637048428" duration="1178000" />
+=======
+      <workItem from="1519637048428" duration="19000" />
+>>>>>>> 893377969fd86ea000f36a85f9685f48fdc85d6c
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="1178000" />
+=======
+    <option name="totallyTimeSpent" value="19000" />
+>>>>>>> 893377969fd86ea000f36a85f9685f48fdc85d6c
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -201,6 +214,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -213,6 +227,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
           <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+=======
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+>>>>>>> 893377969fd86ea000f36a85f9685f48fdc85d6c
           <folding />
         </state>
       </provider>
