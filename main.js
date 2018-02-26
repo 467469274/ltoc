@@ -28,7 +28,8 @@ function createWindow () {
     pathname: path.join(__dirname, 'index.html'),
     protocol: 'file:',
     slashes: true
-  }))
+  }));
+    mainWindow.setMenu(null)
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
