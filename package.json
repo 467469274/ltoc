@@ -16,32 +16,32 @@
     "electron-builder": "^19.10.0"
   },
   "build": {
-  "productName": "lavaRadio",
-  "appId": "org.simulatedgreg.electron-vue",
-  "directories": {
-    "output": "build"
-  },
-  "dmg": {
-    "background":"./static/bj.jpeg",
-    "contents": [
-      {
-        "x": 410,
-        "y": 150,
-        "type": "link",
-        "path": "/Applications"
-      },
-      {
-        "x": 130,
-        "y": 150,
-        "type": "file"
-      }
-    ]
-  },
-  "mac": {
-    "icon": "./static/icon/osx/icon.icns"
-  },
-  "win": {
-    "icon": "./static/icon/win/20171114044317109_easyicon_net_256.ico"
+    "productName": "lavaRadio",
+    "appId": "org.simulatedgreg.electron-vue",
+    "directories": {
+      "output": "build"
+    },
+    "dmg": {
+      "background": "./static/bj.jpeg",
+      "contents": [
+        {
+          "x": 410,
+          "y": 150,
+          "type": "link",
+          "path": "/Applications"
+        },
+        {
+          "x": 130,
+          "y": 150,
+          "type": "file"
+        }
+      ]
+    },
+    "mac": {
+      "icon": "./static/icon/osx/icon.icns"
+    },
+    "win": {
+      "icon": "./static/icon/win/20171114044317109_easyicon_net_256.ico"
+    }
   }
-}
 }
