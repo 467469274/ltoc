@@ -19,14 +19,6 @@ function createWindow () {
       height: 768,
       autoHideMenuBar: true,
   })
-
-    globalShortcut.register('CommandOrControl+shift+D+Q', () => {
-        const focusedWin = BrowserWindow.getFocusedWindow();
-        const appHasFocus = focusedWin !== null && focusedWin.isVisible();
-        if (appHasFocus) {
-            mainWindow.openDevTools()
-        }
-    });
   // and load the index.html of the app.
   mainWindow.loadURL(url.format({
     pathname: path.join(__dirname, 'index.html'),
