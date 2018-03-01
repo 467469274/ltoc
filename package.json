@@ -22,7 +22,6 @@
       "output": "build"
     },
     "dmg": {
-      "background": "./static/bj.jpeg",
       "contents": [
         {
           "x": 410,
